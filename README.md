@@ -28,3 +28,6 @@ https://tinyurl.com/n75cx5jp
 https://drive.google.com/file/d/1XDX1uYrA5YptwRyg7HtNHFn0fyr1-C4l/view?usp=drivesdk
 ## Project Presentation(PPTX)
 https://docs.google.com/presentation/d/1xXsb1gBmkF-SmtAPittu9lPVnOGksDrN/edit?usp=drivesdk&ouid=110062091782009642687&rtpof=true&sd=true
+
+## License 
+  MIT 
